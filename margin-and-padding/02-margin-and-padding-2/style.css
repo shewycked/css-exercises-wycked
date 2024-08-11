@@ -19,10 +19,12 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  padding: 8px;
 }
 
 button {
+  display: block;
   background: white;
   border: 1px solid #eee;
-  padding: 8 24 24 8;
+  padding: 8px 24px 24px 8px;
 }
