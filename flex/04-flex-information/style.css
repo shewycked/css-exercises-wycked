@@ -17,7 +17,7 @@ img {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
-  margin: 52px;
+  gap: 52px;
 }
 
 .text {
