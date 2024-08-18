@@ -28,11 +28,9 @@ a {
   text-decoration: none;
 
   .left-links {
-    
     justify-content: flex-start;
   }
   .right-links {
-    
     justify-content: flex-end;
   }
 }
