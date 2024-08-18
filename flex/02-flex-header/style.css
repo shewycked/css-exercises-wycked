@@ -16,6 +16,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
 }
 
 a {
@@ -26,11 +27,11 @@ a {
   text-decoration: none;
 
   .left-links {
-    display: flex;
+    
     justify-content: flex-start;
   }
   .right-links {
-    display: flex;
+    
     justify-content: flex-end;
   }
 }
