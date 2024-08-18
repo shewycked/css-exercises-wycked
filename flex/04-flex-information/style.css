@@ -15,7 +15,7 @@ img {
 }
 .plants {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   text-align: center;
   margin: 52px;
 }
