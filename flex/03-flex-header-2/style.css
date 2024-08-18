@@ -13,6 +13,7 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
+  margin: 16px;
 }
 
 
@@ -48,6 +49,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  gap: 8px;
 }
 
 .left-side, 
@@ -57,10 +59,8 @@ ul {
 
 .left-side {
   justify-content: flex-start;
-  margin: 8px;
 }
 
 .right-side {
   justify-content: flex-end;
-  margin: 8px;
 }
