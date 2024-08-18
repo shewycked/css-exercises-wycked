@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-content: center;
+  margin: auto;
 }
 
 .notifications {
@@ -63,8 +64,10 @@ ul {
 
 .left-side {
   justify-content: flex-start;
+  margin: 8px;
 }
 
 .right-side {
   justify-content: flex-end;
+  margin: 8px;
 }
