@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -16,7 +17,6 @@ img {
 .plants {
   display: flex;
   justify-content: space-evenly;
-  text-align: center;
   gap: 52px;
 }
 
