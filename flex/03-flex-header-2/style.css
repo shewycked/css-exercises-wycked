@@ -60,6 +60,7 @@ ul {
 
 .left-side {
   justify-content: flex-start;
+  padding: 8px;
 }
 
 .right-side {
