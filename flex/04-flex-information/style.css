@@ -11,14 +11,17 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin: 32px;
 }
 .plants {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
+  margin: 52px;
 }
-.plant-style {
 
+.text {
+  text-wrap: wrap;
 }
 
 /* do not edit this footer */
